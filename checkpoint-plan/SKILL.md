@@ -1,6 +1,6 @@
 ---
 name: checkpoint-plan
-description: Turn an implementation plan into an ordered set of checkpoints: groups of related code changes, each one reviewable, separately committable, and leaving the repo green. Then work through them one checkpoint at a time, stopping for review after each one. Use whenever the user wants to plan or carry out multi-part work (features, refactors, dependency or SDK upgrades, migrations) and mentions checkpoints, chunks, commits, steps to review, "break this up", or "split the plan". Also use when a plan has only broad phases and needs to become committable units, even if the user doesn't say "checkpoint".
+description: "Turn an implementation plan into an ordered set of checkpoints: groups of related code changes, each one reviewable, separately committable, and leaving the repo green. Then work through them one checkpoint at a time, stopping for review after each one. Use whenever the user wants to plan or carry out multi-part work (features, refactors, dependency or SDK upgrades, migrations) and mentions checkpoints, chunks, commits, steps to review, \"break this up\", or \"split the plan\". Also use when a plan has only broad phases and needs to become committable units, even if the user doesn't say \"checkpoint\"."
 ---
 
 # checkpoint-plan
